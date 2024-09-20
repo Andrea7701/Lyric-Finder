@@ -1,4 +1,4 @@
-# Lyric finder
+# React Lyric finder
 
 
 
