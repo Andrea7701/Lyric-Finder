@@ -11,7 +11,7 @@ https://andrea7701.github.io/Lyric-Finder/
 # Built With 
  - ReactJS;
  - React Hooks;
- - Css;
+ 
 
 # Author
  - Github: https://github.com/Andrea7701;
