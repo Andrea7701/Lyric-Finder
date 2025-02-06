@@ -2,10 +2,6 @@
 
 A Lyric finder application built in reactJs. in this application you can search the lyrics of your prefered songs.
 
-
-# Screenshoot
-
-
 # Live Deployment
 https://andrea7701.github.io/Lyric-Finder/
 
